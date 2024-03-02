@@ -102,24 +102,24 @@ object SimpleApp {
 			.getOrCreate()
 
 		// --- Chemin des fichiers JSON : 	chargement des tables business et checkin
-		val checkinFile 	= 	"/travail/ep298479/dataset/yelp_academic_dataset_checkin.json"
-		val businessFile 	= 	"/travail/ep298479/dataset/yelp_academic_dataset_business.json"
+		val checkinFile 	= 	"/CHEMIN/VERS/yelp_academic_dataset_checkin.json"
+		val businessFile 	= 	"/CHEMIN/VERS/yelp_academic_dataset_business.json"
 
 		// --- Connexion DB PostgreSQL 	: 	chargement des tables user, review, elite
-		val urlPostgreSQL = "jdbc:postgresql://stendhal:5432/tpid2020"
+		val urlPostgreSQL = "jdbc:postgresql://SERVEUR:PORT/tpid2020"
 		val connectionProporetiesPostgreSQL = new Properties()
 		connectionProporetiesPostgreSQL.setProperty("driver", "org.postgresql.Driver")
-		connectionProporetiesPostgreSQL.put("user", "tpid")
-		connectionProporetiesPostgreSQL.put("password", "tpid")
+		connectionProporetiesPostgreSQL.put("user", "USER")
+		connectionProporetiesPostgreSQL.put("password", "PASS")
 
 		// --- Connexion DB Oracle 		: 	écriture des tables de dimension et de fait
 		Class.forName("oracle.jdbc.driver.OracleDriver")
-		val url = "jdbc:oracle:thin:@stendhal:1521:enss2023"
+		val url = "jdbc:oracle:thin:@SERVEUR:PORT:enss2023"
 		import java.util.Properties
 		val connectionProperties = new Properties()
 		connectionProperties.setProperty("driver", "oracle.jdbc.driver.OracleDriver")
-		connectionProperties.setProperty("user", "ep298479")
-		connectionProperties.setProperty("password","ep298479")
+		connectionProperties.setProperty("user", "USER")
+		connectionProperties.setProperty("password","PASS")
 
 
 
