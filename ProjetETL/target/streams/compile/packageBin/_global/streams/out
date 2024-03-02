@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home8/ep298479/Documents/BI_S9/ProjetETL/target/scala-2.12/sparketl_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleApp$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home8/ep298479/Documents/BI_S9/ProjetETL/target/scala-2.12/classes/SimpleApp$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleApp$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home8/ep298479/Documents/BI_S9/ProjetETL/target/scala-2.12/classes/SimpleApp$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleApp$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home8/ep298479/Documents/BI_S9/ProjetETL/target/scala-2.12/classes/SimpleApp$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home8/ep298479/Documents/BI_S9/ProjetETL/target/scala-2.12/classes/SimpleApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleApp$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home8/ep298479/Documents/BI_S9/ProjetETL/target/scala-2.12/classes/SimpleApp$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OracleDialect.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home8/ep298479/Documents/BI_S9/ProjetETL/target/scala-2.12/classes/OracleDialect.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleApp$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home8/ep298479/Documents/BI_S9/ProjetETL/target/scala-2.12/classes/SimpleApp$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimpleApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home8/ep298479/Documents/BI_S9/ProjetETL/target/scala-2.12/classes/SimpleApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home8/ep298479/Documents/BI_S9/ProjetETL/src/main/scala/SimpleApp.scala:358:52: value */ is not a member of Unit[0m
+[0m[[0m[31merror[0m] [0m[0m			.jdbc(url, "fact_checkin", connectionProperties)*/[0m
+[0m[[0m[31merror[0m] [0m[0m			                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

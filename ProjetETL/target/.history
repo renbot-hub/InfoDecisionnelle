@@ -1,0 +1,21 @@
+run
+run 15
+run
+println("ok")
+println("ok");
+run
+start
+run
+:paste
+Class.forName("oracle.jdbc.driver.OracleDriver")
+:@stendhal:1521:enss2023"
+nectionProperties = new Properties()
+nectionProperties.setProperty("driver", "oracle.jdbc.driver.OracleDriver")
+nectionProperties.setProperty("user", "ep298479")
+run
+start
+run
+start
+run
+exit
+run
