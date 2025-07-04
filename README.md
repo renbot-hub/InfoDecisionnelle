@@ -3,5 +3,7 @@ Les données sont issues de sources diverses (DB Oracle, DB Postgresql, CSV, JSO
 L'entrepôt de données est réalisé avec Oracle
 
 **Pipelines ETL avec Spark -** Dossier ProjetETL
-**Exemples d'analyses avec METABASE -** Fichier pdf
-**Exemple de requêtes sur l'entrepôt de données à des fins d'analyse -** Fichier queries 
+
+**Exemples d'analyses avec METABASE -** Fichier pdf 
+
+**Exemple de requêtes sur l'entrepôt de données à des fins d'analyse -** Fichier queries  
